@@ -1,4 +1,4 @@
 apiVersion: v2
 version: 0.1.0
-name: garage-skills
+name: bug-fixes
 description: Chart to configure ArgoCD with the react-intro project and its applications
